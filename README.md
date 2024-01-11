@@ -1,6 +1,6 @@
 # Data Scientist
 
-## Work Experience
+### Work Experience
 **Data Scientist & Risk Analyst @ Adretail** (2022-2023)
 - Managed a flexible schedule to ensure commitment and quality service for providing strategic consulting services on the development and validation of models on customer profiling, purchasing and payment behavior, portfolio profitability.
 
@@ -28,15 +28,15 @@
 - Innovated methods for understanding key drivers of portfolio performance, aiding decision-making on portfolio risk, and strategizing for various business units.
 - Compiled efficiency metrics for collections, portfolio, and department results.
 
-## Educational Background
+### Educational Background
 Bachelor's degree in economics (in progress) @ University of Buenos Aires
 
-## Diplomas
+### Diplomas
 - Diploma in data science with r and python (in progress) @ Data Science Institute
 - Data Science & Data Analytics @ Coder House
 - Data Analysis with python @ Humai Institute
 - SQL Server Programming @ Educación It
 
-## Languages
+### Languages
 - Certificate Level C.A.E. Diploma “Specialization Cycle of the Extracurricular English Language Program” @ University of Buenos Aires
 
